@@ -1,0 +1,28 @@
+footer{
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  background-color: #1b3c59;
+  .navbar-left{
+    width: 30%;
+    float: left;
+    .nav-logo{
+      height: 80px;
+    }
+  }
+  .navbar-right{
+    width: 70%;
+    padding-top: 30px;
+    float:left;
+    .nav-menu-right{
+      text-align: right;
+      li{
+       display: inline;
+       text-decoration: none;
+       a{
+         color: #fff;
+       }
+      }
+    }
+  }
+}

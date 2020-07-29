@@ -1,0 +1,94 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  background-color: #fff;
+}
+
+header .navbar-left {
+  width: 30%;
+  float: left;
+}
+
+header .navbar-left .nav-logo {
+  height: 80px;
+}
+
+header .navbar-right {
+  width: 70%;
+  padding-top: 30px;
+  float: left;
+}
+
+header .navbar-right .nav-menu-right {
+  text-align: right;
+}
+
+header .navbar-right .nav-menu-right li {
+  display: inline;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  background-color: #1b3c59;
+}
+
+footer .navbar-left {
+  width: 30%;
+  float: left;
+}
+
+footer .navbar-left .nav-logo {
+  height: 80px;
+}
+
+footer .navbar-right {
+  width: 70%;
+  padding-top: 30px;
+  float: left;
+}
+
+footer .navbar-right .nav-menu-right {
+  text-align: right;
+}
+
+footer .navbar-right .nav-menu-right li {
+  display: inline;
+  text-decoration: none;
+}
+
+footer .navbar-right .nav-menu-right li a {
+  color: #fff;
+}
+
+.home {
+  height: 500px;
+  background-color: coral;
+}
+
+.home p {
+  font-size: 20px;
+  padding-top: 20px;
+}
+
