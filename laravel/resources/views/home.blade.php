@@ -1,4 +1,9 @@
 @extends('layouts.app')
+
+@section('title')
+  Home Boolean
+@endsection
+
 @section('content')
   <main class="home">
     <div class="container">

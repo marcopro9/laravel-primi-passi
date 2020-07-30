@@ -7,11 +7,7 @@
       <div class="navbar-right">
         <ul class="nav-menu-right">
           <li><a href="{{route('privacy')}}">PRIVACY</a></li>
-          <li><a href="#">CORSO</a></li>
-          <li><a href="#">DOPO IL CORSO</a></li>
-          <li><a href="#">LEZIONE GRATUITA</a></li>
-          <li><a href="#">ASSUMI I NOSTRI STUDENTI</a></li>
-          <li><a href="#">CANDIDATI ORA</a></li>
+          <li><a href="#">FAQ</a></li>
         </ul>
       </div>
     </nav>
