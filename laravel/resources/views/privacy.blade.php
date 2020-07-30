@@ -7,7 +7,9 @@
 @section('content')
 
 <main class="container">
+
   <h1>Privacy Policy</h1>
+
   <p>
     Ai sensi dell’art. 13 del Regolamento UE 2016/679 (di seguito “GDPR”),
     Boolean S.R.L., con sede legale in Piazzale Giovanni dalle Band Nere 9,
@@ -19,6 +21,7 @@
   </p>
 
   <h2>Natura dei dati trattati</h2>
+
   <p>
     I dati sono raccolti direttamente da Boolean S.R.L. da fonti pubbliche
     (se relativi allo Studente) e attraverso la compilazione volontaria del
@@ -52,6 +55,7 @@
   </p>
 
   <h2>Finalità del trattamento</h2>
+
   <p>
     I Dati dell’Utente o dell’Interessato sono raccolti per consentire:
   </p>
@@ -86,10 +90,12 @@
   </ul>
 
   <h2>Base giuridica e consenso</h2>
+
   <p>
     I Suoi dati personali potranno essere trattati dal Titolare in caso sussista
     una delle seguenti condizioni:
   </p>
+
   <ul class="indented_list">
     <li>
     sia stato prestato il consenso per una o più finalità specifiche ai sensi
@@ -120,6 +126,7 @@
   </p>
 
   <h2>Modalità di trattamento dei dati</h2>
+
   <p>
     I dati personali conferiti vengono trattati attraverso mezzi elettronici e/o
     cartacei, secondo i principi di correttezza, liceità, trasparenza e di tutela
@@ -187,41 +194,103 @@
       Safari: <a href="#">Link</a>
     </li>
   </ul>
-  
+
   <p>
     Se decidi di non abilitare i cookies, la tua esperienza su boolean.careers potrebbe essere limitata.
   </p>
 
   <h2>Trasferimento dei dati personali extra UE</h2>
+
   <p>
     Per quanto concerne l’eventuale futuro trasferimento di dati verso Paesi terzi, il Titolare rende noto che l’eventuale trattamento avverrà nel rispetto della normativa, ovvero secondo una delle modalità consentite dalla legge vigente, quali ad esempio:
+  </p>
 
-        Trasferimento verso Paesi che offrono garanzie di protezione adeguate;
-        Adozione di clausole contrattuali standard approvate dalla Commissione Europea;
-        Adozione di norme vincolanti autorizzate dall’Autorità Garante;
-        Selezione di soggetti aderenti a programmi internazionali per la libera circolazione dei dati (es. EU-USA)
+  <ul class="indented_list">
+    <li>
+      Trasferimento verso Paesi che offrono garanzie di protezione adeguate;
+    </li>
+    <li>
+      Adozione di clausole contrattuali standard approvate dalla Commissione Europea;
+    </li>
+    <li>
+      Adozione di norme vincolanti autorizzate dall’Autorità Garante;
+    </li>
+    <li>
+      Selezione di soggetti aderenti a programmi internazionali per la libera
+      circolazione dei dati (es. EU-USA)
+    </li>
+  </ul>
 
-    Nel caso in cui, per trattamenti specifici, i dati dovessero in futuro essere trasferiti ad organizzazioni internazionali o verso soggetti dislocati in Stati non appartenenti all’Unione Europea, il Titolare fornirà comunque una informazione specifica al riguardo.
+  <p>
+    Nel caso in cui, per trattamenti specifici, i dati dovessero in futuro essere
+    trasferiti ad organizzazioni internazionali o verso soggetti dislocati in Stati
+    non appartenenti all’Unione Europea, il Titolare fornirà comunque una informazione
+    specifica al riguardo.
+  </p>
 
-    Conservazione dei dati
+  <h2>Conservazione dei dati</h2>
 
-    I suoi dati sono trattati fino all’eventuale sua richiesta di cancellazione e sono conservati per il tempo non superiore a quello strettamente necessario a perseguire le finalità per i quali gli stessi sono stati raccolti, nel rispetto del principio di minimizzazione di cui all’art. 5, paragrafo 1, lettera c) del GDPR, nonché degli obblighi di legge cui è tenuto il Titolare.
-    Diritti dell’interessato
+  <p>
+    I suoi dati sono trattati fino all’eventuale sua richiesta di cancellazione e
+    sono conservati per il tempo non superiore a quello strettamente necessario a
+    perseguire le finalità per i quali gli stessi sono stati raccolti, nel rispetto
+    del principio di minimizzazione di cui all’art. 5, paragrafo 1, lettera c) del
+    GDPR, nonché degli obblighi di legge cui è tenuto il Titolare.
+  </p>
 
-    Lei potrà rivolgersi al Titolare del trattamento per esercitare i diritti previsti dal Capo III del GDPR. Ha diritto di ottenere a cura del Titolare, senza ritardo:
+  <h2>Diritti dell’interessato</h2>
 
-        la conferma che sia o meno in corso un trattamento dei Suoi dati personali e, in tal caso, di ottenerne l’accesso (diritto di accesso, ex art. 15 GDPR);
-        la rettifica dei Suoi dati personali inesatti, o l’integrazione dei dati personali incompleti (diritto di rettifica, ex art. 16 GDPR);
-        la cancellazione dei Suoi dati, se sussiste uno dei motivi previsti dal Regolamento (diritto alla cancellazione, ex art. 17 GDPR);
-        la limitazione del trattamento dei Suoi dati quando ricorre una delle ipotesi previste dal Regolamento (diritto di limitazione, ex art. 18 GDPR);
-        la trasmissione dei dati personali che lo riguardano a un altro Titolare del trattamento senza impedimenti da parte del Titolare del trattamento cui li ha forniti (diritto alla portabilità dei dati, ex art. 20 GDPR).  Ha inoltre diritto di esercitare nei confronti del Titolare i seguenti diritti:
-        il diritto di opporsi in qualsiasi momento al trattamento dei dati personali che lo riguardano qualora il trattamento dia fondato sul legittimo interesse del Titolare, o su ragioni di pubblico interesse, qualora la tutela delle sue libertà individuali debba ritenersi prevalente su detti interessi legittimi e/o pubblici (diritto di opposizione ex art. 21 GDPR);
-        Il diritto di presentare reclamo al Garante della privacy o di ricorrere all’autorità giudiziaria.
-        il diritto di ottenere l’elenco completo ed aggiornato di tutti soggetti Responsabili e autorizzati al trattamento dei Suoi dati personali.
+  <p>
+    Lei potrà rivolgersi al Titolare del trattamento per esercitare i diritti
+    previsti dal Capo III del GDPR. Ha diritto di ottenere a cura del Titolare,
+    senza ritardo:
+  </p>
 
+  <ul class="indented_list">
+    <li>
+      la conferma che sia o meno in corso un trattamento dei Suoi dati personali e,
+       in tal caso, di ottenerne l’accesso (diritto di accesso, ex art. 15 GDPR);
+    </li>
+    <li>
+      la rettifica dei Suoi dati personali inesatti, o l’integrazione dei dati
+      personali incompleti (diritto di rettifica, ex art. 16 GDPR);
+    </li>
+    <li>
+      la cancellazione dei Suoi dati, se sussiste uno dei motivi previsti dal
+      Regolamento (diritto alla cancellazione, ex art. 17 GDPR);
+    </li>
+    <li>
+      la limitazione del trattamento dei Suoi dati quando ricorre una delle ipotesi
+       previste dal Regolamento (diritto di limitazione, ex art. 18 GDPR);
+    </li>
+    <li>
+      la trasmissione dei dati personali che lo riguardano a un altro Titolare
+      del trattamento senza impedimenti da parte del Titolare del trattamento cui
+      li ha forniti (diritto alla portabilità dei dati, ex art. 20 GDPR).<br>
+      Ha inoltre diritto di esercitare nei confronti del Titolare i seguenti diritti:
+      <ul class="indented_list">
+        <li>
+          il diritto di opporsi in qualsiasi momento al trattamento dei dati personali
+          che lo riguardano qualora il trattamento dia fondato sul legittimo interesse
+          del Titolare, o su ragioni di pubblico interesse, qualora la tutela delle sue
+          libertà individuali debba ritenersi prevalente su detti interessi legittimi e/o
+          pubblici (diritto di opposizione ex art. 21 GDPR);
+        </li>
+        <li>
+          Il diritto di presentare reclamo al Garante della privacy o di ricorrere
+          all’autorità giudiziaria.
+        </li>
+        <li>
+          il diritto di ottenere l’elenco completo ed aggiornato di tutti soggetti
+          Responsabili e autorizzati al trattamento dei Suoi dati personali.
+        </li>
+      </ul>
+    </li>
+  </ul>
 
-
+  <p>
     Per esercitare i Suoi diritti appena elencati, potrà inoltrare richiesta all’indirizzo e-mail ciao@boolean.careers
   </p>
+
 </main>
 @endsection

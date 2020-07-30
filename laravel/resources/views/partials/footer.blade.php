@@ -1,19 +1,21 @@
 <footer>
   <div class="container">
     <nav class="clearfix">
+
       <div class="navbar-left">
-        <a href="#"><img class="nav-logo" src="{{asset('img/logo.png')}}" alt="logo Boolean"></a>
+        <a href="#"><img class="footer-logo" src="{{asset('img/logo-white.png')}}" alt="logo Boolean"></a>
+        <p class="footer_p">Sede operativa</p>
+        <p class="footer_p">Via Carducci 12 - 20123 Milano</p>
+        <p class="footer_p">Tel: 02-40031288</p>
       </div>
+
       <div class="navbar-right">
-        <ul class="nav-menu-right">
-          <li><a href="#">HOME</a></li>
-          <li><a href="#">CORSO</a></li>
-          <li><a href="#">DOPO IL CORSO</a></li>
-          <li><a href="#">LEZIONE GRATUITA</a></li>
-          <li><a href="#">ASSUMI I NOSTRI STUDENTI</a></li>
-          <li><a href="#">CANDIDATI ORA</a></li>
+        <ul class="footer-menu-right">
+          <li><a href="{{route('privacy')}}">Privacy</a></li>
+          <li><a href="#">FAQ</a></li>
         </ul>
       </div>
+
     </nav>
   </div>
 </footer>

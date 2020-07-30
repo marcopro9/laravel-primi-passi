@@ -7,7 +7,7 @@
       <div class="navbar-right">
         <ul class="nav-menu-right">
           <li><a href="{{route('privacy')}}">PRIVACY</a></li>
-          <li><a href="#">FAQ</a></li>
+          <li><a href="{{route('faq')}}">FAQ</a></li>
         </ul>
       </div>
     </nav>

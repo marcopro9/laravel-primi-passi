@@ -15,7 +15,9 @@
 }
 main{
   color: $first-color;
+  padding: 125px 0 50px;
 }
+// tipografia
 h1{
   font-weight: $bold-weight;
   margin-bottom: 50px;
@@ -27,6 +29,10 @@ h2{
 p{
   line-height: 25px;
   margin-bottom: 20px;
+}
+.footer_p{
+  color: $second-color;
+  margin: 0;
 }
 .indented_list{
   padding-left: 30px;
